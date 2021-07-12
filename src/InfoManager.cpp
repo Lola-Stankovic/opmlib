@@ -9,7 +9,6 @@
 #include "opmonlib/InfoManager.hpp"
 
 #include "opmonlib/InfoCollector.hpp"
-#include "opmonlib/InfoManager.hpp"
 #include "opmonlib/OpmonService.hpp"
 
 #include <iostream>

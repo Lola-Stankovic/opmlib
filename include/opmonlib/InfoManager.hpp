@@ -15,6 +15,8 @@
 #include <nlohmann/json.hpp>
 
 #include <atomic>
+#include <memory>
+#include <string>
 #include <thread>
 
 namespace dunedaq::opmonlib {

@@ -9,9 +9,11 @@
 #ifndef OPMONLIB_INCLUDE_OPMONLIB_INFOCOLLECTOR_HPP_
 #define OPMONLIB_INCLUDE_OPMONLIB_INFOCOLLECTOR_HPP_
 
+#include <nlohmann/json.hpp>
+
 #include <ctime>
 #include <iostream>
-#include <nlohmann/json.hpp>
+#include <string>
 
 namespace dunedaq::opmonlib {
 
